@@ -1,5 +1,3 @@
-// Used to find the contiguous sub-array(containing at least one number) which has the maximum sum.
-
 package ARRAYS;
 
 class KadaneAlgorithm {
